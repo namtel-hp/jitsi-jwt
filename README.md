@@ -291,3 +291,17 @@ server {
     ...
 }
 ```
+## JWT Payload
+
+{
+  "context": {
+    "user": {
+      "name": "Debjit Biswas",
+      "email": "debjit.biswas@softofficepro.com"
+    }
+  },
+  "aud": "eventappstore.co",
+  "iss": "qEqUvH2xU8J5",
+  "sub": "app.eventappstore.co",
+  "room": "dbj"
+}
