@@ -292,6 +292,7 @@ server {
 }
 ```
 ## JWT Payload
+```bash
 
 {
   "context": {
@@ -305,3 +306,4 @@ server {
   "sub": "app.eventappstore.co",
   "room": "dbj"
 }
+```
